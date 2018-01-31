@@ -3,8 +3,8 @@ Jython OLE2 re-Combing tool...
 
 Requires Jython with Apache POI on the CLASSPATH. Example command to run:
 
-* jython -Dpython.path=$CLASSPATH ole2recombiner.py --dir Dir2Combine/
-* jython -Dpython.path=$CLASSPATH ole2recombiner.py --ole2 file2split.doc
+* jython -Dpython.path=$CLASSPATH ole2recombiner.py --combine Dir2Combine/
+* jython -Dpython.path=$CLASSPATH ole2recombiner.py --extract file2split.doc
 
 Example on Windows: 
 
